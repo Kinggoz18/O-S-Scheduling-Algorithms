@@ -1,0 +1,29 @@
+Script started on Mon 27 Feb 2023 01:21:42 AM EST
+]0;chigoziemuonagolu@loki:~/COIS3320/Lab2[?1034h[chigoziemuonagolu@loki Lab2]$ ./lab2script Lab2.log[9P./lab2
+From 1-3 enter a job number to select the job you wish to run: 1
+Results for Job 1: 
+FCFS: Average Response Time: 187254 --- Average Turn around Time: 187403 ---- Start Time: 88  ---- Finish Time: 745237
+SJF: Average Response Time: 126773 --- Average Turn around Time: 126858  ---- Start Time: 88  ---- Finish Time: 426121
+STCF: Average Response Time: 197910 --- Average Turn around Time: 198074 ---- Context Switches: 4711  ---- Start Time: 88  ---- Finish Time: 817888
+Round Robin with CPU time slice of 30: Average Response Time: 62681 --- Average Turn around Time: 203865 ---- Context Switches: 15855  ---- Start Time: 88  ---- Finish Time: 475738
+Round Robin with CPU time slice of 75: Average Response Time: 84168 --- Average Turn around Time: 179977 ---- Context Switches: 6652  ---- Start Time: 88  ---- Finish Time: 498988
+From 1-3 enter a job number to select the job you wish to run: 2
+Results for Job 2: 
+FCFS: Average Response Time: 39628 --- Average Turn around Time: 39717 ---- Start Time: 88  ---- Finish Time: 446808
+SJF: Average Response Time: 7641 --- Average Turn around Time: 7661  ---- Start Time: 88  ---- Finish Time: 103459
+STCF: Average Response Time: 27694 --- Average Turn around Time: 27831 ---- Context Switches: 4966  ---- Start Time: 88  ---- Finish Time: 516568
+Round Robin with CPU time slice of 30: Average Response Time: 10211 --- Average Turn around Time: 58296 ---- Context Switches: 6435  ---- Start Time: 88  ---- Finish Time: 193138
+Round Robin with CPU time slice of 75: Average Response Time: 66424 --- Average Turn around Time: 151435 ---- Context Switches: 5916  ---- Start Time: 88  ---- Finish Time: 443788
+From 1-3 enter a job number to select the job you wish to run: 3
+Results for Job 3: 
+FCFS: Average Response Time: 338368 --- Average Turn around Time: 338579 ---- Start Time: 88  ---- Finish Time: 1052746
+SJF: Average Response Time: 14528 --- Average Turn around Time: 14551  ---- Start Time: 88  ---- Finish Time: 116643
+STCF: Average Response Time: 306834 --- Average Turn around Time: 307068 ---- Context Switches: 5329  ---- Start Time: 88  ---- Finish Time: 1125298
+Round Robin with CPU time slice of 30: Average Response Time: 74969 --- Average Turn around Time: 197395 ---- Context Switches: 18321  ---- Start Time: 88  ---- Finish Time: 549718
+Round Robin with CPU time slice of 75: Average Response Time: 187424 --- Average Turn around Time: 375257 ---- Context Switches: 11549  ---- Start Time: 88  ---- Finish Time: 866263
+From 1-3 enter a job number to select the job you wish to run: 0
+Terminating program. 
+]0;chigoziemuonagolu@loki:~/COIS3320/Lab2[chigoziemuonagolu@loki Lab2]$ exit
+exit
+
+Script done on Mon 27 Feb 2023 01:22:14 AM EST
